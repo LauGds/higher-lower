@@ -34,10 +34,3 @@ while game:
   elif user_choice == 'B' and option_a['follower_count'] > option_b['follower_count']:
     game = False
     print(f"Sorry, that's wrong. Final score: {score}")
-
-
-
-# Show the dictionary as items
-
-
-
